@@ -75,8 +75,8 @@ It can be shown that no other mapping can provide a lower cost.
 
 ## Result
 
-| Time Submitted | Status                            | Runtime | Memory | Language |
-| -------------- | --------------------------------- | ------- | ------ | -------- |
-|                | <font color=#00A000>Accept</font> |         |        | cpp      |
+| Time Submitted     | Status                            | Runtime | Memory | Language |
+| ------------------ | --------------------------------- | ------- | ------ | -------- |
+| Aug 06, 2024 22:36 | <font color=#00A000>Accept</font> | 71ms    | 25MB   | cpp      |
 
  
