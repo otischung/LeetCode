@@ -1,4 +1,4 @@
-# 40. Combination Sum II
+# 947. Most Stones Removed with Same Row or Column
 
 Difficulty: <font color=#FF8B00>Medium</font>
 
